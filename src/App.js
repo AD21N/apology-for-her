@@ -29,7 +29,7 @@ const ApologyPage = () => {
 
   const comparisons = [
     { feature: "Volume", friends: "Jet Engine", you: "ASMR Angel" },
-    { feature: "Smell", friends: "Stale Pizza", you: "Vanilla & Roses (Baby lotion as well)" },
+    { feature: "Smell", friends: "Stale Pizza", you: "Vanilla & Roses" },
     { feature: "IQ", friends: "Single Brain Cell", you: "Literal Genius (At the level of Einstein)" },
   ];
 
