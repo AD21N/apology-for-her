@@ -20,9 +20,10 @@ const ApologyPage = () => {
   const GIRLFRIEND_NAME = "My Queen Ayla👑"; 
 
   const timelineEvents = [
-    { time: "8:00 PM", title: "The Plan", desc: "Tell you I'm going for some hours to have sometime with the boys." },
-    { time: "10:00 PM", title: "The Mistake", desc: "Someone plays the movie (it was horror I peed my pants). I should have left. I didn't." },
-    { time: "12:00 AM", title: "The Delusion", desc: "I text you 'Home soon!' (I was, in fact, not home soon)." },
+    { time: "11:00 PM", title: "The Plan", desc: "Tell you I'm going for some hours to have sometime with the boys." },
+    { time: "2:00 AM", title: "The Delusion", desc: "I called you and sayed 'Home soon!' (I was, in fact, not home soon)." },
+    { time: "3:00 PM", title: "The Mistake", desc: "Someone plays the movie (it was horror I peed my pants). I should have left. I didn't." },
+    { time: "7:00 AM", title: "The bigger Mistake", desc: "Someone said to go to two rivers, Still stayed and I didn't got home." },
     { time: "Now", title: "The Regret", desc: "Writing this website while crying and missing you :/" }
   ];
 
